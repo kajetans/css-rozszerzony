@@ -1,3 +1,7 @@
-body {
-  background-color: aqua;
+#tlo-obrazek {
+  background-image: url("../img/truskawka.jpg");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 30% 30%;
+  background-attachment: fixed;
 }
