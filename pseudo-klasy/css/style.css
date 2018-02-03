@@ -17,3 +17,7 @@ div.tabela > div.klient:first-child {
 div.tabela :nth-child(5) {
   background-color: brown;
 }
+
+div.tabela :nth-child(4n+5){
+  background-color: aquamarine;
+}
