@@ -10,7 +10,7 @@ img#truskawka {
   float:none;
 }
 
-p:last-child {
+p {
   background-color: beige;
   clear:right;
 }
