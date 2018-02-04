@@ -21,3 +21,7 @@ body {
     color: greenyellow;
   }
 }
+
+@media (min-width:900px) and (max-width:1200) {
+
+}
